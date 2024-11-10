@@ -1,0 +1,9 @@
+streamlit
+qrcode
+io
+cryptography
+mysql-connector-python
+pyzbar
+pillow
+random
+pandas
